@@ -5,4 +5,4 @@ FactorFinder.java (Java) - given a number, prints all of its unique factors or s
 
 factorBreaker.java (Java) - given an integer, prints all of its prime factors. Complete.
 
-Binary_11/20/16.py - Randomly generates binary numbers that fill a typical IDLE window. Complete.
+Binary_11/20/16.py (Python) - Randomly generates binary numbers that fill a typical IDLE window. Complete.
