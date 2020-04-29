@@ -7,4 +7,4 @@ factorBreaker.java (Java) - given an integer, prints all of its prime factors. C
 
 Binary_11/20/16.py (Python) - Randomly generates binary numbers that fill a typical IDLE window. Complete.
 
-Factorial_12/21-16.py - Finds the factorial of a given integer, or states that finding the factorial of an integer below 1 is impossible.
+Factorial_12/21-16.py (Python) - Finds the factorial of a given integer, or states that finding the factorial of an integer below 1 is impossible.
