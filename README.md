@@ -5,7 +5,7 @@ FactorFinder.java (Java) - given a number, prints all of its unique factors or s
 
 factorBreaker.java (Java) - given an integer, prints all of its prime factors. Completed March 2020.
 
-Binary_11/20/16.py (Python) - Randomly generates binary numbers that fill a typical IDLE window. 
+Binary_11/20/16.py (Python) - Randomly generates binary numbers that fill a typical IDLE window. Completed 11/20/16.
 
 Factorial_12/21/16.py (Python) - Finds the factorial of a given integer, or states that finding the factorial of an integer below 1 is impossible. Completed 12/21/16.
 
